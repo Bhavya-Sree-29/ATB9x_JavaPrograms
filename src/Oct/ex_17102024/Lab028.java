@@ -32,6 +32,10 @@ public class Lab028 {
         {
             System.out.println("Grade E");
         }
+        else
+        {
+            System.out.println("FAIL");
+        }
         sc.close();
     }
 }
