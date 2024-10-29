@@ -25,5 +25,6 @@ public class Lab029 {
         {
             System.out.println("Scalene triangle");
         }
+        sc.close();
     }
 }
