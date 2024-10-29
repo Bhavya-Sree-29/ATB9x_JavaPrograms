@@ -5,13 +5,13 @@ public class Lab029 {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
         System.out.println("Enter side1:");
-        int s1 = sc.nextInt();
+        double s1 = sc.nextDouble();
 
         System.out.println("Enter side2:");
-        int s2 = sc.nextInt();
+        double s2 = sc.nextDouble();
 
         System.out.println("Enter side3:");
-        int s3 = sc.nextInt();
+        double s3 = sc.nextDouble();
 
         if(s1 == s2 && s2==s3)
         {
