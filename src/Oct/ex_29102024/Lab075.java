@@ -11,7 +11,7 @@ public class Lab075 {
         //to enter numbers in an array from the user
         for(int i=0;i<array.length;i++)
         {
-            System.out.println("Enter the number");
+            System.out.println("Enter the number"+(i+1));
             array[i]=sc.nextInt();
         }
 
