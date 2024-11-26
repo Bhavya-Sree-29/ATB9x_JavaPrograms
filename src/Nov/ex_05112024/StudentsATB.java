@@ -1,6 +1,7 @@
 package Nov.ex_05112024;
-
+//c-->>class
 public class StudentsATB {
+   //A -->>Attributes or data members or instance variables or fields or member variables
     String name;
     int age;
     long phone_number;
@@ -9,6 +10,7 @@ public class StudentsATB {
     String address;
     boolean is_fees_paid;
 
+    //B-->>Behaviour or member functions or methods
     void study(){
         //no return type no parameters
     }
